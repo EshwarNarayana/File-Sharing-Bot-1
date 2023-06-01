@@ -11,31 +11,31 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "5721024251:AAHCiaBA2qt1GT-Fn6q7X7u6XvbyJawFzqk"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "5528240861"
+      "value": ""
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": "9735709"
+      "value": ""
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://Eshwar:EEN2626@@cluster0.up8kry0.mongodb.net/"
+      "value": ""
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "tbfilesharebot"
+      "value": ""
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": "c39898fdf6e78229d6673b4a34c1324e"
+      "value": ""
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001614484485"
+      "value": ""
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
@@ -51,7 +51,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1667755060",
+      "value": "",
       "required": True
     },
     "PROTECT_CONTENT": {
